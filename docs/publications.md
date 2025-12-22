@@ -2,6 +2,14 @@
 
 ## 2025
 
+- Shunsuke Terauchi and Kiminori Matsuzaki: Vertical Split Encoding: Enabling Larger N-Tuples for Stronger 2048 Play. The 30th International Conference on Technologies and Applications of Artificial Intelligence (TAAI 2025), I102, 2025.
+
+- 金子 智弥, 松崎 公紀: ミニ 2048 における Double Q 学習の効果—過大評価を乗り越えるために—. ゲームプログラミングワークショップ (GPW-25), 2025.
+
+- 楠本 英哲, 野本 瑛二, 松崎 公紀: カードゲーム「ゲシェンク」における基礎的プレイヤの作成と評価. 情報処理学会第 56 回ゲーム情報学研究会, 2025-GI-56(1), 2025.
+
+- 寺内 俊輔, 松崎 公紀: N タプルネットワークの大きさと学習性能の関係:ミニ 2048 を用いた実験・評価. 情報処理学会第 55 回ゲーム情報学研究会, 2025-GI-55(12), 2025.
+
 - Chuanfa Li and Kiminori Matsuzaki: Developing Agents for Complete DouDizhu Game Enhanced With Concurrent and Multi-Stage Training Methods. IEEE Transactions on Games, doi: 10.1109/TG.2025.3530476, available for early access, 2025.
 
 - 寺内 俊輔, 松崎 公紀: ミニ 2048 の完全解析を用いた N タプルネットワーク+モンテカルロ木探索プレイヤの分析. 第 66 回プログラミング・シンポジウム予稿集, 2025.
