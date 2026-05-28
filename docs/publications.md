@@ -1,5 +1,10 @@
 # 学生学会発表一覧
 
+## 2026
+
+- 福澤 詩音，松崎 公紀: 大貧民におけるポリシー・バリューネットワーク評価関数の学習法と利用法の検討. 情報処理学会第88回全国大会, (IPSJ 2X-03), 2026.
+- 寺内 俊輔，金子 智弥，松崎 公紀: ボードゲーム「コントラスト」における基礎プレイヤの作成と評価. 情報処理学会第88回全国大会, (IPSJ 2X-01), 2026.
+
 ## 2025
 
 - Shunsuke Terauchi and Kiminori Matsuzaki: Vertical Split Encoding: Enabling Larger N-Tuples for Stronger 2048 Play. The 30th International Conference on Technologies and Applications of Artificial Intelligence (TAAI 2025), I102, 2025.
